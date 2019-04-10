@@ -1,2 +1,4 @@
 ## Churn Prediction Model
-Classification using DNN, SVM, and Logistic Regression
+
+* Telecom Customer Data
+* Classification using DNN, SVM, and Logistic Regression
