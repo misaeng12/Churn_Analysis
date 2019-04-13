@@ -1,4 +1,4 @@
-## Churn Prediction Model
+## 통신사 고객 이탈 예측
 
-* Telecom Customer Data from Kaggle(https://www.kaggle.com/)
-* Classification using DNN, SVM, and Logistic Regression
+* Data from Kaggle(https://www.kaggle.com/)
+* Classification Modeling using DNN, SVM, and Logistic Regression
